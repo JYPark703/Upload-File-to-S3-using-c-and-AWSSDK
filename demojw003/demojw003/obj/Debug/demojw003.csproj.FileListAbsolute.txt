@@ -1,0 +1,10 @@
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\demojw003.exe.config
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\demojw003.exe
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\demojw003.pdb
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\AWSSDK.Core.dll
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\AWSSDK.S3.dll
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\AWSSDK.Core.xml
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\bin\Debug\AWSSDK.S3.xml
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\obj\Debug\demojw003.csprojResolveAssemblyReference.cache
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\obj\Debug\demojw003.exe
+c:\users\jinji\documents\visual studio 2015\Projects\demojw003\demojw003\obj\Debug\demojw003.pdb
